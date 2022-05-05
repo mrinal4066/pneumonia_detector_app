@@ -1,0 +1,4 @@
+# Heres a comment
+*.h5
+/accuracy_88
+/static
